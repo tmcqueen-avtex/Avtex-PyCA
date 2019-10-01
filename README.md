@@ -3,4 +3,6 @@
 
 This set of scripts uses the Hazmat Cryptography library from https://cryptography.io
 
-| pip install cryptography
+```
+pip install cryptography
+```
